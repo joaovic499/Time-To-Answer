@@ -21,6 +21,8 @@ gem "importmap-rails"
 #Devise
 gem 'devise'
 gem 'rails-i18n'
+gem 'tty-spinner'
+gem 'jquery-rails'
 
 # Hotwire's SPA-like page accelerator [https://turbo.hotwired.dev]
 gem "turbo-rails"
